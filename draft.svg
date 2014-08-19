@@ -126,17 +126,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="2034.1495"
-     inkscape:cy="1544.5888"
+     inkscape:zoom="0.27978055"
+     inkscape:cx="2020.4822"
+     inkscape:cy="1587.9261"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1141"
      inkscape:window-x="1600"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="2133.0937,2600.6557"
+       id="guide3296" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -166,77 +173,12 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="Screenshots">
-    <g
-       style="display:inline"
-       id="g4169"
-       transform="matrix(0.62949839,0,0,0.62949839,1633.2692,114.83527)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:9.13588333;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         id="rect4038-9"
-         width="2467.0012"
-         height="1780.1929"
-         x="1620.0959"
-         y="1004.6688" />
-      <g
-         id="g4102"
-         style="display:inline"
-         transform="translate(-46.887992,304.69415)">
-        <image
-           width="1200"
-           height="800"
-           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/displays.png"
-           id="image4048"
-           x="2910.146"
-           y="727.53973"
-           style="fill:url(#linearGradient4245-7);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <image
-           width="1200"
-           height="800"
-           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/hockey.png"
-           id="image4059"
-           x="1690.823"
-           y="727.53973"
-           style="fill:url(#linearGradient4247-7);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <image
-           width="1200"
-           height="800"
-           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/login.png"
-           id="image4070"
-           x="2910.146"
-           y="1550.8016"
-           style="fill:#151515;fill-opacity:1;stroke:#0a0a0a;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <image
-           width="1200"
-           height="800"
-           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/nodes.png"
-           id="image4081"
-           x="1690.823"
-           y="1550.8016"
-           style="fill:url(#linearGradient4241-3);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:74.46622467px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="1701.105"
-         y="2740.7952"
-         id="text4249"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4251"
-           x="1701.105"
-           y="2740.7952">Fig 1. Screenshots of various demo programs</tspan></text>
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Logos"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
-       transform="translate(-13.624447,17.533911)"
+       transform="translate(-6.4759873,3.2369915)"
        style="display:inline"
        id="g4186">
       <rect
@@ -292,223 +234,425 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="Backgrounds">
+     id="layer5"
+     inkscape:label="Content"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4169"
+       transform="matrix(0.62949839,0,0,0.62949839,1576.0816,29.053753)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:9.40886211;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect4038-9"
+         width="2543.76"
+         height="1831.1904"
+         x="1581.7166"
+         y="969.48706" />
+      <g
+         id="g4102"
+         style="display:inline"
+         transform="translate(-46.887992,304.69415)">
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/displays.png"
+           id="image4048"
+           x="2910.146"
+           y="727.53973"
+           style="fill:url(#linearGradient4245-7);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/hockey.png"
+           id="image4059"
+           x="1690.823"
+           y="727.53973"
+           style="fill:url(#linearGradient4247-7);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/login.png"
+           id="image4070"
+           x="2910.146"
+           y="1550.8016"
+           style="fill:#151515;fill-opacity:1;stroke:#0a0a0a;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/nodes.png"
+           id="image4081"
+           x="1690.823"
+           y="1550.8016"
+           style="fill:url(#linearGradient4241-3);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:74.46622467px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1701.105"
+         y="2740.7952"
+         id="text4249"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4251"
+           x="1701.105"
+           y="2740.7952">Fig 1. Screenshots of Various Included Demo Sketches</tspan></text>
+    </g>
     <rect
-       y="721.73712"
-       x="171.01221"
-       height="918.70374"
+       y="639.3443"
+       x="137.56444"
+       height="637.6192"
        width="1120.0808"
        id="rect4038-1"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.42226553;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.6841538;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.97331882;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.9706943;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect4415"
-       width="1132.9554"
-       height="733.21149"
-       x="158.51411"
-       y="1735.5537" />
+       width="1263.3671"
+       height="656.65698"
+       x="129.57333"
+       y="2229.9363" />
     <rect
-       y="742.61676"
-       x="1416.1969"
-       height="1315.6597"
-       width="1122.7681"
+       y="639.3443"
+       x="1331.3107"
+       height="626.06323"
+       width="1173.9047"
        id="rect4417"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:5.29845428;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.7372992;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <rect
-       y="2751.7056"
-       x="2582.8804"
-       height="355.4761"
-       width="1574.8541"
+       y="2657.5095"
+       x="2566.0557"
+       height="501.504"
+       width="1634.5748"
        id="rect4617"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.26180291;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.9470439;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.81869841;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.86728668;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect4623"
-       width="1605.8271"
+       width="1638.3743"
        height="760.84448"
-       x="2596.0552"
-       y="1931.8077" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="New Features"
-     style="display:inline" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="Teaching and Research">
-    <text
+       x="2565.0925"
+       y="1846.379" />
+    <rect
+       y="2218.1069"
+       x="1463.3352"
+       height="682.09778"
+       width="1048.1469"
+       id="rect4625"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.68609786;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <flowRoot
        xml:space="preserve"
-       style="font-size:222.32164001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="317.47684"
-       y="1001.075"
-       id="text4548"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="317.47684"
-         y="1001.075"
-         id="tspan4552">Intro</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="Devices" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="Zones" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Intro">
-    <text
+       id="flowRoot4627"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-308.36202,-511.24464)"><flowRegion
+         id="flowRegion4629"><rect
+           id="rect4631"
+           width="634.37152"
+           height="379.66461"
+           x="1721.2999"
+           y="1348.9944" /></flowRegion><flowPara
+         id="flowPara4633">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-189.17011,1151.77)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot4635"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4637"><rect
+           y="1348.9944"
+           x="1721.2999"
+           height="387.89859"
+           width="937.42145"
+           id="rect4639" /></flowRegion><flowPara
+         id="flowPara4641">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:227.97419739px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1640.4919"
-       y="1116.0178"
-       id="text4605"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1640.4919"
-         y="1116.0178"
-         id="tspan4609">Zones</tspan></text>
-    <text
+       id="flowRoot4643"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(939.56327,750.51532)"><flowRegion
+         id="flowRegion4645"><rect
+           id="rect4647"
+           width="1492.38"
+           height="424.88324"
+           x="1721.2999"
+           y="1348.9944" /></flowRegion><flowPara
+         id="flowPara4649">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-1504.3827,1056.6486)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot4651"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4653"><rect
+           y="1348.9944"
+           x="1721.2999"
+           height="462.96545"
+           width="938.81641"
+           id="rect4655" /></flowRegion><flowPara
+         id="flowPara4657">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:118.81114197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="311.4733"
-       y="1978.5985"
+       id="flowRoot4659"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-1487.9108,-521.96733)"><flowRegion
+         id="flowRegion4661"><rect
+           id="rect4663"
+           width="975.33069"
+           height="410.74719"
+           x="1721.2999"
+           y="1348.9944" /></flowRegion><flowPara
+         id="flowPara4665">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       x="182.14453"
+       y="2354.2456"
        id="text4613"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4615"
-         x="311.4733"
-         y="1978.5985">Devices</tspan></text>
+         x="182.14453"
+         y="2354.2456">Input Device Unification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4619"
-       y="2944.3044"
-       x="2832.814"
-       style="font-size:118.81114197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       y="2796.4011"
+       x="2637.7417"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        xml:space="preserve"><tspan
-         y="2944.3044"
-         x="2832.814"
+         y="2796.4011"
+         x="2637.7417"
          id="tspan4621"
          sodipodi:role="line">References</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="Title BG"
-     sodipodi:insensitive="true"
-     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       x="2642.2488"
+       y="1982.0635"
+       id="text4875"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2642.2488"
+         y="1982.0635"
+         id="tspan4893">New Features and Future Work</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4879"
+       y="2357.2085"
+       x="1539.2559"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       xml:space="preserve"><tspan
+         y="2357.2085"
+         x="1539.2559"
+         sodipodi:role="line"
+         id="tspan4891"
+         style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light">Real World Usage</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4883"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4885"><rect
+           id="rect4887"
+           width="573.76666"
+           height="424.26407"
+           x="2561.7468"
+           y="2326.822" /></flowRegion><flowPara
+         id="flowPara4889" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4895"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4897"><rect
+           id="rect4899"
+           width="339.41125"
+           height="88.893425"
+           x="3992.1228"
+           y="2605.6243" /></flowRegion><flowPara
+         id="flowPara4901" /></flowRoot>    <image
+       y="940.21027"
+       x="2079.4226"
+       id="image4911"
+       xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/zone.png"
+       height="209"
+       width="334" />
+    <flowRoot
+       transform="translate(881.59559,1516.6713)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot4914"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4916"><rect
+           y="1348.9944"
+           x="1721.2999"
+           height="218.19296"
+           width="1547.5535"
+           id="rect4918" /></flowRegion><flowPara
+         id="flowPara4920">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       x="1392.462"
+       y="777.18555"
+       id="text4930"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4932"
+         x="1392.462"
+         y="777.18555">Zones as UI Primitives</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4934"
+       y="768.01477"
+       x="284.70746"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       xml:space="preserve"><tspan
+         y="768.01477"
+         x="284.70746"
+         id="tspan4936"
+         sodipodi:role="line">Abstract</tspan></text>
     <rect
-       y="158.98634"
-       x="327.28952"
-       height="488.0036"
-       width="3773.9299"
-       id="rect4038"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:5.91617203;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer13"
-     inkscape:label="Authors"
-     sodipodi:insensitive="true"
-     style="display:inline">
-    <g
-       id="g4539">
-      <g
-         transform="translate(-28.951237,0)"
-         id="g4527">
-        <text
-           sodipodi:linespacing="125%"
-           id="text4435"
-           y="494.06152"
-           x="646.0296"
-           style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-           xml:space="preserve"><tspan
-             y="494.06152"
-             x="646.0296"
-             sodipodi:role="line"
-             id="tspan4451">Kalev Kalda Sikes</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-           x="1482.0466"
-           y="494.06152"
-           id="text4439"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4441"
-             x="1482.0466"
-             y="494.06152">Dr. Christopher Collins</tspan></text>
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4455"
-         y="591.77454"
-         x="748.56067"
-         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         xml:space="preserve"><tspan
-           y="591.77454"
-           x="748.56067"
-           id="tspan4457"
-           sodipodi:role="line">University of Ontario Institute of Technology</tspan></text>
-    </g>
-    <g
-       id="g4533">
-      <text
-         xml:space="preserve"
-         style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-         x="2512.1716"
-         y="494.06152"
-         id="text4443"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4445"
-           x="2512.1716"
-           y="494.06152">Dr. Mark Hancock</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4459"
-         y="591.77454"
-         x="2486.3513"
-         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         xml:space="preserve"><tspan
-           y="591.77454"
-           x="2486.3513"
-           id="tspan4461"
-           sodipodi:role="line">University of Waterloo</tspan></text>
-    </g>
+       y="1316.6855"
+       x="144.00934"
+       height="850.60571"
+       width="2364.0056"
+       id="rect4417-4"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:6.18188286;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5036"
+       y="1460.6881"
+       x="235.75795"
+       style="font-size:110px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       xml:space="preserve"><tspan
+         y="1460.6881"
+         x="235.75795"
+         id="tspan5038"
+         sodipodi:role="line">Architecture</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4627-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-1484.2308,179.1233)"><flowRegion
+         id="flowRegion4629-2"><rect
+           id="rect4631-7"
+           width="652.24261"
+           height="569.09875"
+           x="1721.2999"
+           y="1348.9944" /></flowRegion><flowPara
+         id="flowPara4633-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1665.436"
+       y="1692.3585"
+       id="text3290"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3292"
+         x="1665.436"
+         y="1692.3585"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Insert Fancy Pansy</tspan><tspan
+         sodipodi:role="line"
+         x="1665.436"
+         y="1792.3585"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan3294">Architecture Diagram Here</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Title"
-     style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-size:193.60197449px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-       x="425.89392"
-       y="361.84055"
-       id="text4253"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="425.89392"
-         y="361.84055"
-         id="tspan4265">The Simple Multi-Touch Toolkit</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:117.35787201px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       x="3247.3608"
-       y="375.59363"
-       id="text4261"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4263"
-         x="3247.3608"
-         y="375.59363">for Processing</tspan></text>
+     style="opacity:0.76510064;display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g4736"
+       transform="translate(-7.1484597,-64.336138)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:5.91617203;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect4038"
+         width="3773.9299"
+         height="488.0036"
+         x="260.32162"
+         y="154.37354" />
+      <g
+         id="g4539"
+         style="display:inline"
+         transform="translate(-66.967913,-4.6128851)">
+        <g
+           id="g4527"
+           transform="translate(-28.951237,0)">
+          <text
+             xml:space="preserve"
+             style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+             x="646.0296"
+             y="494.06152"
+             id="text4435"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan4451"
+               sodipodi:role="line"
+               x="646.0296"
+               y="494.06152">Kalev Kalda Sikes</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text4439"
+             y="494.06152"
+             x="1482.0466"
+             style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+             xml:space="preserve"><tspan
+               y="494.06152"
+               x="1482.0466"
+               id="tspan4441"
+               sodipodi:role="line">Dr. Christopher Collins</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           x="748.56067"
+           y="591.77454"
+           id="text4455"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4457"
+             x="748.56067"
+             y="591.77454">University of Ontario Institute of Technology</tspan></text>
+      </g>
+      <g
+         id="g4533"
+         style="display:inline"
+         transform="translate(-66.967913,-4.6128851)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4443"
+           y="494.06152"
+           x="2512.1716"
+           style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+           xml:space="preserve"><tspan
+             y="494.06152"
+             x="2512.1716"
+             id="tspan4445"
+             sodipodi:role="line">Dr. Mark Hancock</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           x="2486.3513"
+           y="591.77454"
+           id="text4459"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4461"
+             x="2486.3513"
+             y="591.77454">University of Waterloo</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4253"
+         y="357.22766"
+         x="358.92599"
+         style="font-size:193.60197449px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         xml:space="preserve"><tspan
+           id="tspan4265"
+           y="357.22766"
+           x="358.92599"
+           sodipodi:role="line">The Simple Multi-Touch Toolkit</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4261"
+         y="358.98083"
+         x="3180.3928"
+         style="font-size:117.35787201px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+         xml:space="preserve"><tspan
+           y="358.98083"
+           x="3180.3928"
+           id="tspan4263"
+           sodipodi:role="line">for Processing</tspan></text>
+    </g>
   </g>
 </svg>
