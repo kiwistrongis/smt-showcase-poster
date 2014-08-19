@@ -19,6 +19,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4235">
+      <stop
+         style="stop-color:#151515;stop-opacity:1;"
+         offset="0"
+         id="stop4237" />
+      <stop
+         style="stop-color:#151515;stop-opacity:0;"
+         offset="1"
+         id="stop4239" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3813">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -40,6 +52,72 @@
        r="2210"
        gradientTransform="matrix(1,0,0,0.75565611,0,-138.6988)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235"
+       id="linearGradient4241"
+       x1="1690.823"
+       y1="1950.8016"
+       x2="2890.823"
+       y2="1950.8016"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235"
+       id="linearGradient4245"
+       x1="2910.146"
+       y1="1127.5397"
+       x2="4110.146"
+       y2="1127.5397"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235"
+       id="linearGradient4247"
+       x1="1690.823"
+       y1="1127.5397"
+       x2="2890.823"
+       y2="1127.5397"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235-6"
+       id="linearGradient4245-7"
+       x1="2910.146"
+       y1="1127.5397"
+       x2="4110.146"
+       y2="1127.5397"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4235-6">
+      <stop
+         style="stop-color:#151515;stop-opacity:1;"
+         offset="0"
+         id="stop4237-3" />
+      <stop
+         style="stop-color:#151515;stop-opacity:0;"
+         offset="1"
+         id="stop4239-4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235-6"
+       id="linearGradient4247-7"
+       x1="1690.823"
+       y1="1127.5397"
+       x2="2890.823"
+       y2="1127.5397"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4235-6"
+       id="linearGradient4241-3"
+       x1="1690.823"
+       y1="1950.8016"
+       x2="2890.823"
+       y2="1950.8016"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,10 +127,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1998.94"
-     inkscape:cy="1576.9757"
+     inkscape:cx="2034.1495"
+     inkscape:cy="1544.5888"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer15"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1141"
@@ -75,13 +153,362 @@
      inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,2187.6378)">
+     transform="translate(0,2187.6378)"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        id="rect3035"
        width="4320"
        height="3240"
        x="0"
        y="-2187.6377"
-       style="fill:#262626;stroke:url(#radialGradient3821);stroke-opacity:1;stroke-width:100;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:miter;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1;stroke:url(#radialGradient3821);stroke-width:100;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Screenshots">
+    <g
+       style="display:inline"
+       id="g4169"
+       transform="matrix(0.62949839,0,0,0.62949839,1633.2692,114.83527)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:9.13588333;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="rect4038-9"
+         width="2467.0012"
+         height="1780.1929"
+         x="1620.0959"
+         y="1004.6688" />
+      <g
+         id="g4102"
+         style="display:inline"
+         transform="translate(-46.887992,304.69415)">
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/displays.png"
+           id="image4048"
+           x="2910.146"
+           y="727.53973"
+           style="fill:url(#linearGradient4245-7);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/hockey.png"
+           id="image4059"
+           x="1690.823"
+           y="727.53973"
+           style="fill:url(#linearGradient4247-7);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/login.png"
+           id="image4070"
+           x="2910.146"
+           y="1550.8016"
+           style="fill:#151515;fill-opacity:1;stroke:#0a0a0a;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           width="1200"
+           height="800"
+           xlink:href="file:///home/kurotetsuka/smt/showcase/screenshots/nodes.png"
+           id="image4081"
+           x="1690.823"
+           y="1550.8016"
+           style="fill:url(#linearGradient4241-3);fill-opacity:1;stroke:#101010;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:74.46622467px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1701.105"
+         y="2740.7952"
+         id="text4249"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4251"
+           x="1701.105"
+           y="2740.7952">Fig 1. Screenshots of various demo programs</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Logos"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       transform="translate(-13.624447,17.533911)"
+       style="display:inline"
+       id="g4186">
+      <rect
+         y="2938.7314"
+         x="85.143166"
+         height="211.24744"
+         width="2416.8584"
+         id="rect3823"
+         style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:6.44716406;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <image
+         width="448.86801"
+         height="161.13211"
+         xlink:href="file:///home/kurotetsuka/smt/showcase/logos/vialab/vialab%20logo.png"
+         id="image3866"
+         x="1842.8591"
+         y="2963.7891" />
+      <image
+         width="365.8728"
+         height="147.26381"
+         xlink:href="file:///home/kurotetsuka/smt/showcase/logos/nserc/NSERC2.png"
+         id="image3899"
+         x="1054.4572"
+         y="2970.7234" />
+      <image
+         width="310"
+         height="119"
+         xlink:href="file:///home/kurotetsuka/smt/showcase/logos/surfnet/SurfNetLogo.png"
+         id="image3844"
+         x="1481.2035"
+         y="2984.8552" />
+      <image
+         width="636.82123"
+         height="255.33498"
+         xlink:href="file:///home/kurotetsuka/smt/showcase/logos/waterloo/UniversityOfWaterloo_logo_horiz_rgb.png"
+         id="image3877"
+         x="463.315"
+         y="2916.6877" />
+      <image
+         width="149.20789"
+         height="149.20789"
+         xlink:href="file:///home/kurotetsuka/smt/showcase/logos/processing/1024px-Processing_Logo_Clipped.svg.png"
+         id="image3888"
+         x="2312.3867"
+         y="2969.7512" />
+      <image
+         width="378.38272"
+         height="151.3958"
+         xlink:href="file:///home/kurotetsuka/smt/showcase/logos/uoit/uoit_logo.png"
+         id="image3855"
+         x="114.8978"
+         y="2968.6572" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Backgrounds">
+    <rect
+       y="721.73712"
+       x="171.01221"
+       height="918.70374"
+       width="1120.0808"
+       id="rect4038-1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.42226553;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.97331882;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4415"
+       width="1132.9554"
+       height="733.21149"
+       x="158.51411"
+       y="1735.5537" />
+    <rect
+       y="742.61676"
+       x="1416.1969"
+       height="1315.6597"
+       width="1122.7681"
+       id="rect4417"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:5.29845428;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       y="2751.7056"
+       x="2582.8804"
+       height="355.4761"
+       width="1574.8541"
+       id="rect4617"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.26180291;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.81869841;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4623"
+       width="1605.8271"
+       height="760.84448"
+       x="2596.0552"
+       y="1931.8077" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="New Features"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Teaching and Research">
+    <text
+       xml:space="preserve"
+       style="font-size:222.32164001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="317.47684"
+       y="1001.075"
+       id="text4548"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="317.47684"
+         y="1001.075"
+         id="tspan4552">Intro</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Devices" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Zones" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Intro">
+    <text
+       xml:space="preserve"
+       style="font-size:227.97419739px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1640.4919"
+       y="1116.0178"
+       id="text4605"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1640.4919"
+         y="1116.0178"
+         id="tspan4609">Zones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:118.81114197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="311.4733"
+       y="1978.5985"
+       id="text4613"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4615"
+         x="311.4733"
+         y="1978.5985">Devices</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4619"
+       y="2944.3044"
+       x="2832.814"
+       style="font-size:118.81114197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="2944.3044"
+         x="2832.814"
+         id="tspan4621"
+         sodipodi:role="line">References</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Title BG"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       y="158.98634"
+       x="327.28952"
+       height="488.0036"
+       width="3773.9299"
+       id="rect4038"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:5.91617203;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Authors"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <g
+       id="g4539">
+      <g
+         transform="translate(-28.951237,0)"
+         id="g4527">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4435"
+           y="494.06152"
+           x="646.0296"
+           style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+           xml:space="preserve"><tspan
+             y="494.06152"
+             x="646.0296"
+             sodipodi:role="line"
+             id="tspan4451">Kalev Kalda Sikes</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+           x="1482.0466"
+           y="494.06152"
+           id="text4439"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4441"
+             x="1482.0466"
+             y="494.06152">Dr. Christopher Collins</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4455"
+         y="591.77454"
+         x="748.56067"
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="591.77454"
+           x="748.56067"
+           id="tspan4457"
+           sodipodi:role="line">University of Ontario Institute of Technology</tspan></text>
+    </g>
+    <g
+       id="g4533">
+      <text
+         xml:space="preserve"
+         style="font-size:85px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+         x="2512.1716"
+         y="494.06152"
+         id="text4443"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4445"
+           x="2512.1716"
+           y="494.06152">Dr. Mark Hancock</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4459"
+         y="591.77454"
+         x="2486.3513"
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="591.77454"
+           x="2486.3513"
+           id="tspan4461"
+           sodipodi:role="line">University of Waterloo</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Title"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:193.60197449px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="425.89392"
+       y="361.84055"
+       id="text4253"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="425.89392"
+         y="361.84055"
+         id="tspan4265">The Simple Multi-Touch Toolkit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:117.35787201px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+       x="3247.3608"
+       y="375.59363"
+       id="text4261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4263"
+         x="3247.3608"
+         y="375.59363">for Processing</tspan></text>
   </g>
 </svg>
