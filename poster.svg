@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="draft.svg">
+   sodipodi:docname="poster.svg">
   <defs
      id="defs4">
     <marker
@@ -266,11 +266,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5595611"
-     inkscape:cx="1741.8201"
-     inkscape:cy="2725.8789"
+     inkscape:zoom="0.39566945"
+     inkscape:cx="2561.7105"
+     inkscape:cy="2452.9209"
      inkscape:document-units="px"
-     inkscape:current-layer="g4736"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="841"
@@ -287,7 +287,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -441,12 +441,12 @@
        id="rect4038-1"
        style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.91175056;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.55776596;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.65002942;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect4415"
        width="1050.3033"
-       height="634.12543"
+       height="667.44141"
        x="92.631927"
-       y="2267.2927" />
+       y="2233.9768" />
     <rect
        y="609.39954"
        x="1345.7107"
@@ -469,12 +469,12 @@
        x="2567.8"
        y="1858.379" />
     <rect
-       y="2267.2927"
+       y="2233.9768"
        x="1191.91"
-       height="632.89862"
+       height="666.15015"
        width="1312.5759"
        id="rect4625"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.97339559;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.07643747;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4627"
@@ -494,21 +494,21 @@
          id="flowPara3473">and customizing them in code.</flowPara><flowPara
          id="flowPara3553"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
-         id="flowPara3475">   Zones can be nested in other zones, inheriting their parent's transformation matrix. This nesting is how one can create more complicated UIs, such as the swipe keyboard featured in figure 1.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-479.114,1081.9339)"
+         id="flowPara3475">Zones can be nested in other zones, inheriting their parent's transformation matrix. This nesting is how one creates more complicated UIs, such as the swipe keyboard featured in figure 1.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-465.114,1019.9339)"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot4635"
        xml:space="preserve"><flowRegion
          id="flowRegion4637"><rect
            y="1348.9944"
            x="1721.2999"
-           height="541.59039"
-           width="1201.9144"
+           height="508.73462"
+           width="1206.9691"
            id="rect4639"
            style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara3169">As a teaching aid, SMT has helped students learn human-computer interaction concepts by allowing them to directly apply their knowledge. The toolkit is accessible to students of all disciplines with only basic programming knowledge. SMT has also proved to be a powerful tool for HCI research. It is also being effectively used in multiple master's thesis projects<flowSpan
+         id="flowPara3169">As a teaching aid, SMT has helped students learn human-computer interaction concepts by allowing them to directly apply their knowledge. The toolkit is accessible to students of all disciplines with only basic programming knowledge. SMT has also proved to be a powerful tool for HCI research. It is currently being effectively used in multiple master's thesis projects<flowSpan
    style="font-size:65.00091553%;baseline-shift:super"
-   id="flowSpan4019">[5]</flowSpan>, enabling rapid development of research prototypes. Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.</flowPara><flowPara
+   id="flowSpan4019">[5]</flowSpan> at multiple universities, enabling rapid development of research prototypes. Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.</flowPara><flowPara
          id="flowPara3586" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4643"
@@ -521,28 +521,29 @@
            x="1721.2999"
            y="1348.9944"
            style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara6498">More recent work on SMT has been mainly focused on polish and stability. For example, SMT now supports windowed sketches and any combination of input devices, touch rendering has been vastly improved, the zone rendering pipeline has been completely redone in a more stable manner, and more. Additionally, SMT's website and documentation have received a lot of work in order to better assist new programmers. Finally, an evaluation study has been conducted, but the analysis has not yet been completed.</flowPara><flowPara
+         id="flowPara6498">Recent work on SMT has been mainly focused on polish and stability. For example, SMT now supports windowed sketches and any combination of input devices. Touch rendering has been vastly improved, the zone rendering pipeline has been completely redone in a more stable manner, and more. Additionally, SMT's website and documentation have received a lot of work in order to better assist new programmers. Finally, an evaluation study has been conducted, but the analysis has not yet been completed.</flowPara><flowPara
          id="flowPara6509"
          style="line-height:80.00000119%">  </flowPara><flowPara
-         id="flowPara6511">In addition to Android support, planned future development includes support for more input devices, a complete graphical overhaul, a layout engine, touch stabalization and smoothing, and more. Additionally, a full-fledged analysis must be completed in order accurately determine the benefit of this toolkit. Finally, investigation into the application of SMT's strategy to other domains in human-computer interaction than multi-touch would yield interesting results.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1570.4546,1088.5835)"
+         id="flowPara6511">In addition to Android support, planned future development includes support for even more input devices, a complete graphical overhaul, a layout engine, touch stabalization and smoothing, and more. Additionally, a full-fledged analysis must be completed in order conclusively determine the benefit of this toolkit. Finally, investigation into the application of SMT's strategy to domains in human-computer interaction other than multi-touch might yield interesting results.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-1580.4546,1018.5835)"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot4651"
        xml:space="preserve"><flowRegion
          id="flowRegion4653"><rect
            y="1348.9944"
            x="1721.2999"
-           height="527.37598"
-           width="933.40216"
+           height="517.26654"
+           width="956.14856"
            id="rect4655"
            style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara4657">In order to provide a consistent interface to the user, SMT handles all of the most common touch input devices, plus a few obscure ones. It supports the following: TUIO<flowSpan
+         id="flowPara4657">SMT supports all of the most common touch input devices, plus a few obscure ones. It supports the following: TUIO<flowSpan
    style="font-size:65.00091553%;baseline-shift:super"
-   id="flowSpan4003">[2]</flowSpan> devices, Windows Touch, SMART Table<flowSpan
+   id="flowSpan6519">[2]</flowSpan> devices, Windows Touch, SMART Table<flowSpan
    style="font-size:65.00091553%;baseline-shift:super"
-   id="flowSpan4007">[3]</flowSpan>, and Leap<flowSpan
+   id="flowSpan6521">[3]</flowSpan>, and Leap<flowSpan
    style="font-size:65.00091553%;baseline-shift:super"
-   id="flowSpan4011">[4]</flowSpan> Motion. SMT also provides mouse emulation for touch events, allowing users to develop on machines that do not have touch input. Additionally, Android support is currently in development.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan6523">[4]</flowSpan> Motion. SMT also provides mouse emulation, allowing users to develop on machines that do not have touch input. Android support is currently in development.</flowPara><flowPara
+         id="flowPara6517">In order to provide a consistant interface to the user, SMT handles all the device management, providing a simplified 'Touch' object to the user that properly encapsulates the raw data objects.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4659"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
@@ -561,17 +562,17 @@
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowPara3426" /><flowPara
          id="flowPara3334"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">   SMT is a simple and flexible touch user interface prototyping toolkit for the Processing environment. Its simple syntax and API opens the realm of touch to the non-coder - artists, hobbyists, and students alike.</flowPara></flowRoot>    <text
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">SMT is a simple and flexible touch user interface prototyping toolkit for the Processing environment. Its simple syntax and API opens the realm of touch to the non-coder - artists, hobbyists, and students alike.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       x="142.08948"
-       y="2391.6089"
+       x="167.67155"
+       y="2337.6089"
        id="text4613"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4615"
-         x="142.08948"
-         y="2391.6089">Input Device Unification</tspan></text>
+         x="167.67155"
+         y="2337.6089">Device Unification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4619"
@@ -597,15 +598,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text4879"
-       y="2389.3137"
-       x="1262.1985"
+       y="2337.3137"
+       x="1264.1985"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        xml:space="preserve"><tspan
-         y="2389.3137"
-         x="1262.1985"
+         y="2337.3137"
+         x="1264.1985"
          sodipodi:role="line"
          id="tspan4891"
-         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light;fill:#1a1a1a">Real World Usage</tspan></text>
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light">Real World Usage</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4883"
@@ -653,41 +654,41 @@
          id="flowPara3145">      http://vialab.science.uoit.ca/portfolio/tandemtable</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       x="1417.6313"
+       x="1445.6313"
        y="725.87097"
        id="text4930"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4932"
-         x="1417.6313"
+         x="1445.6313"
          y="725.87097">Zones as UI Primitives</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4934"
        y="729.87097"
-       x="168.33054"
+       x="188.33054"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        xml:space="preserve"><tspan
          y="729.87097"
-         x="168.33054"
+         x="188.33054"
          id="tspan4936"
          sodipodi:role="line">Abstract</tspan></text>
     <rect
        y="1310.4719"
        x="93.0429"
-       height="919.89044"
+       height="883.82037"
        width="2411.4602"
        id="rect4417-4"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:6.4929266;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:6.36435556;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <text
        sodipodi:linespacing="125%"
        id="text5036"
-       y="1433.1139"
-       x="166.31258"
+       y="1453.1139"
+       x="186.31258"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        xml:space="preserve"><tspan
-         y="1433.1139"
-         x="166.31258"
+         y="1453.1139"
+         x="186.31258"
          id="tspan5038"
          sodipodi:role="line">Architecture</tspan></text>
     <flowRoot
@@ -705,7 +706,7 @@
          id="flowPara3187">SMT takes full advantage of Processing's graphics API. All zones are fully featured PGraphics objects, with a few added features. To customize a zone's functionality, one can either write a function in a special form in the sketch, or extend the Zone class for extra power.</flowPara><flowPara
          id="flowPara3999"
          style="line-height:80.00000119%" /><flowPara
-         id="flowPara3191">A unique feature of SMT is the ability to override functions for a Zone object with functions in the sketch. This removes the need for the user to fully understand object-oriented programming, something non-coders often find difficult to grasp.</flowPara><flowPara
+         id="flowPara3191">The unique feature of SMT is the ability to override functions for a Zone object with functions in the sketch. This removes the need for the user to fully understand object-oriented programming, something non-coders often find difficult to grasp.</flowPara><flowPara
          id="flowPara3189" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3358"
