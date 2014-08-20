@@ -7,35 +7,34 @@
  - new recent features and future work
  - references
 
-## abstract
-The realm of multi-touch computing is generally restricted to experts. Current toolkits require a large amount of background knowledge in Java, C#, and various other technologies. Despite the fact that multi-touch user interfaces are increasingly more ubiquitous, they remain inaccessible to novices and typically require a large amount of development overhead. We’ve created the Simple Multi-Touch Toolkit for Processing, or SMT for short, to fix that.
+## abstract ----- :: Abstract
+Despite the fact that touch user interfaces are increasingly more ubiquitous, they generally remain inaccessible to novices and require a large amount of development overhead. The Simple Multi-Touch Toolkit (SMT) for Processing fixes that.
 
-SMT is a simple and flexible library for multi-touch user interface prototyping. It supports all major OSs and common touch input devices. It takes just a few minutes to install, and just a few more to learn the basic concepts. 
+SMT is a simple and flexible touch user interface prototyping toolkit for the Processing environment. Its simple syntax and API opens the realm of touch to the non-coder - artists, hobbyists, and students alike.
 
+## zones -------- :: The Interactable Zone as a UI Primitive
+The concept of interactable zones as a user interface primitive is core to SMT's design. Users create new UI elements by creating 'zones' and customizing them in code. Zones can be nested in other zones, inheriting their parent's transformation matrix. This nesting is how one can create more complicated UIs, such as the swipe keyboard featured in figure 1.
 
-## teaching and research usage
-SMT is currently being used as a research aid and for teaching human-computer interaction concepts in multiple universities. Additionally, it has made touch computing accessible to students, artists, and hobbyists.
+## devices ------ :: Unification of Common Input Devices
+In order to provide a consistent interface to the user, SMT handles all of the most common touch input devices, plus a few obscure ones. It supports the following: TUIO devices, Windows Touch, SMART SDK, and LEAP Motion. SMT also provides mouse emulation for touch events, allowing users to develop on machines that do not have touch input. Additionally, Android support is currently in development.
 
-
-## abstract      :: Abstract
-
-
-## zones         :: The Interactable Zone as a UI Primitive
-
-
-## devices       :: Unification of Common Input Devices
+## usage -------- :: Use for Teaching and Research
+As a teaching aid, SMT has helped students learn human-computer interaction concepts by allowing them to directly apply their knowledge. The toolkit is accessible to students of all disciplines with only basic programming knowledge.
+SMT has also proved to be a powerful tool for HCI research. It has been effectively used in multiple master's thesis projects, enabling rapid development of research prototypes.
+Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.
 
 
-## usage         :: Use for Teaching and Research
+
+SMT is currently being used both as a teaching aid for human-computer interaction courses, as well as a prototyping tool for research in multiple universities. SMT has also attracted users from accross globe.
 
 
-## work          :: New Recent Features and Future Work
+## work --------- :: New Recent Features and Future Work
 
 
-## architecture  :: Architecture
+## architecture - :: Architecture
 
 
-## references    :: References
+## references --- :: References
 
 
 
