@@ -25,10 +25,12 @@ Additionally, SMT has attracted users from across the globe for various other pu
 
 
 ## work --------- :: New Recent Features and Future Work
-
+More recent work on SMT has been mainly focused on polish and stability. SMT now supports windowed sketches
 
 ## architecture - :: Architecture
-SMT takes full advantage of the Processing API. All zones are fully featured PGraphics objects
+SMT takes full advantage of the Processing's graphics API. All zones are fully featured PGraphics objects, with a few added features. To customize a zone's functionality, one can either write a function in a special form in the sketch, or extend the Zone class for extra power.
+SMT's input handling works by converting all inputs to TUIO messages on different ports, then wrapping each TUIO cursor from each device with an SMT Touch object. After window position is accounted for, a secondary graphics buffer is used to assign Touch objects to zones, invoking user code on various touch events.
+One unique feature of SMT, enabled by Java's reflection API, is the ability to override functions for a Zone object with functions in the sketch. This removes the need for the user to fully understand object-oriented programming, something non-coders often find difficult to grasp.
 
 ## references --- :: References
 [1] Processing website. August 2014. http://www.processing.org
