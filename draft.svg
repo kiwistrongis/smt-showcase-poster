@@ -127,14 +127,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.27978055"
-     inkscape:cx="2484.6983"
-     inkscape:cy="1352.0017"
+     inkscape:cx="3017.0046"
+     inkscape:cy="1294.4636"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1141"
-     inkscape:window-x="1600"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -181,11 +181,11 @@
        id="guide3374" />
     <sodipodi:guide
        orientation="0,1"
-       position="1058.9648,894.68621"
+       position="1174.1345,915.00285"
        id="guide3477" />
     <sodipodi:guide
        orientation="0,1"
-       position="907.85439,850.66671"
+       position="1182.8055,884.57676"
        id="guide3479" />
     <sodipodi:guide
        orientation="0,1"
@@ -203,6 +203,14 @@
        orientation="1,0"
        position="1397.6313,2294.8449"
        id="guide3590" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2619.9105,605.83196"
+       id="guide3141" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1651.2942,1038.3138"
+       id="guide3157" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -212,7 +220,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -365,12 +373,12 @@
        id="rect4038-1"
        style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.91175056;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.62139893;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:3.69788098;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect4415"
        width="1050.2208"
-       height="657.06342"
+       height="685.11011"
        x="92.726738"
-       y="2229.7329" />
+       y="2201.6863" />
     <rect
        y="609.39954"
        x="1345.7107"
@@ -393,12 +401,12 @@
        x="2567.8"
        y="1842.379" />
     <rect
-       y="2218.3315"
+       y="2201.6863"
        x="1191.9185"
-       height="681.64832"
+       height="698.29364"
        width="1312.4728"
        id="rect4625"
-       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.12342262;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#d5d5d5;stroke-width:4.1734643;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4627"
@@ -416,9 +424,9 @@
          id="flowPara3537">elements by creating 'zones'</flowPara><flowPara
          id="flowPara3473">and customizing them in code.</flowPara><flowPara
          id="flowPara3553"
-         style="line-height:80.00000119%">  </flowPara><flowPara
+         style="line-height:80.00000119%" /><flowPara
          id="flowPara3475">   Zones can be nested in other zones, inheriting their parent's transformation matrix. This nesting is how one can create more complicated UIs, such as the swipe keyboard featured in figure 1.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-479.114,1032.9489)"
+       transform="translate(-479.114,998.9489)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4635"
        xml:space="preserve"><flowRegion
@@ -429,12 +437,14 @@
            width="1201.9144"
            id="rect4639" /></flowRegion><flowPara
          id="flowPara3304">As a teaching aid, SMT has helped students learn human-computer interaction concepts by allowing them to directly apply their knowledge. The toolkit is accessible to students of all disciplines with only basic programming knowledge.</flowPara><flowPara
-         id="flowPara3584">SMT has also proved to be a powerful tool for HCI research. It has been effectively used in multiple master's thesis projects, enabling rapid development of research prototypes.Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.</flowPara><flowPara
+         id="flowPara3584">SMT has also proved to be a powerful tool for HCI research. It is also being effectively used in multiple master's thesis projects<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan3159">[5]</flowSpan>, enabling rapid development of research prototypes.Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.</flowPara><flowPara
          id="flowPara3586" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4643"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(939.56327,750.51532)"><flowRegion
+       transform="translate(898.598,666.52092)"><flowRegion
          id="flowRegion4645"><rect
            id="rect4647"
            width="1492.38"
@@ -442,17 +452,23 @@
            x="1721.2999"
            y="1348.9944" /></flowRegion><flowPara
          id="flowPara4649">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1572.982,1032.3447)"
+       transform="translate(-1572.982,998.3447)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4651"
        xml:space="preserve"><flowRegion
          id="flowRegion4653"><rect
            y="1348.9944"
            x="1721.2999"
-           height="479.61011"
-           width="944.81262"
+           height="504.62973"
+           width="966.258"
            id="rect4655" /></flowRegion><flowPara
-         id="flowPara4657">In order to provide a consistent interface to the user, SMT handles all of the most common touch input devices, plus a few obscure ones. It supports the following: TUIO devices, Windows Touch, SMART SDK, and LEAP Motion. SMT also provides mouse emulation for touch events, allowing users to develop on machines that do not have touch input. Additionally, Android support is currently in development.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4657">In order to provide a consistent interface to the user, SMT handles all of the most common touch input devices, plus a few obscure ones. It supports the following: TUIO<flowSpan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="flowSpan3147">[2]</flowSpan> devices, Windows Touch, SMART Table<flowSpan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="flowSpan3153">[3]</flowSpan>, and Leap<flowSpan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="flowSpan3155">[4]</flowSpan> Motion. SMT also provides mouse emulation for touch events, allowing users to develop on machines that do not have touch input. Additionally, Android support is currently in development.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4659"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -464,51 +480,53 @@
            x="1721.2999"
            y="1348.9944" /></flowRegion><flowPara
          id="flowPara3323"
-         style="text-align:start;text-anchor:start">Despite the fact that touch user interfaces are increasingly more ubiquitous, they generally remain inaccessible to novices and require a large amount of development overhead. The Simple Multi-Touch Toolkit (SMT) for Processing fixes that.</flowPara><flowPara
+         style="text-align:start;text-anchor:start">Despite the fact that touch user interfaces are increasingly more ubiquitous, they generally remain inaccessible to novices and require a large amount of development overhead. The Simple Multi-Touch Toolkit (SMT) for Processing<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan3143">[1]</flowSpan> fixes that.</flowPara><flowPara
          style="text-align:start;line-height:80.00000119%;text-anchor:start"
-         id="flowPara3426"> </flowPara><flowPara
+         id="flowPara3426" /><flowPara
          id="flowPara3334"
          style="text-align:start;text-anchor:start">   SMT is a simple and flexible touch user interface prototyping toolkit for the Processing environment. Its simple syntax and API opens the realm of touch to the non-coder - artists, hobbyists, and students alike.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        x="148.08948"
-       y="2341.6089"
+       y="2307.6089"
        id="text4613"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4615"
          x="148.08948"
-         y="2341.6089">Input Device Unification</tspan></text>
+         y="2307.6089">Input Device Unification</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4619"
-       y="2796.4011"
-       x="2623.4448"
+       y="2760.1882"
+       x="2616.3362"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        xml:space="preserve"><tspan
-         y="2796.4011"
-         x="2623.4448"
+         y="2760.1882"
+         x="2616.3362"
          id="tspan4621"
          sodipodi:role="line">References</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-       x="2620.8035"
-       y="1978.4893"
+       x="2619.9104"
+       y="1982.0635"
        id="text4875"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="2620.8035"
-         y="1978.4893"
+         x="2619.9104"
+         y="1982.0635"
          id="tspan4893">New Features and Future Work</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4879"
-       y="2345.3137"
+       y="2311.3137"
        x="1242.1985"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        xml:space="preserve"><tspan
-         y="2345.3137"
+         y="2311.3137"
          x="1242.1985"
          sodipodi:role="line"
          id="tspan4891"
@@ -541,17 +559,22 @@
        height="209"
        width="334" />
     <flowRoot
-       transform="translate(881.59559,1516.6713)"
+       transform="translate(898.598,1444.6321)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        id="flowRoot4914"
        xml:space="preserve"><flowRegion
          id="flowRegion4916"><rect
            y="1348.9944"
            x="1721.2999"
-           height="218.19296"
-           width="1547.5535"
+           height="332.3371"
+           width="1540.4052"
            id="rect4918" /></flowRegion><flowPara
-         id="flowPara4920">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>    <text
+         id="flowPara4920">[1] Processing website. August 2014. http://www.processing.org</flowPara><flowPara
+         id="flowPara3137">[2] TUIO website. August 2014. http://www.tuio.org</flowPara><flowPara
+         id="flowPara3149">[3] SMART website. August 2014. http://smarttech.com</flowPara><flowPara
+         id="flowPara3151">[4] Leap Motion website. August 2014. http://leapmotion.com</flowPara><flowPara
+         id="flowPara3139">[5] TandemTable portfolio. August 2014.</flowPara><flowPara
+         id="flowPara3145">      http://vialab.science.uoit.ca/portfolio/tandemtable</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
        x="1397.6313"
@@ -629,7 +652,7 @@
            height="222.40787"
            x="2091.3921"
            y="984.32922" /></flowRegion><flowPara
-         id="flowPara3364"></flowPara></flowRoot>  </g>
+         id="flowPara3364" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"

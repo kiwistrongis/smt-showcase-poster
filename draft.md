@@ -24,19 +24,25 @@ SMT has also proved to be a powerful tool for HCI research. It has been effectiv
 Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.
 
 
-
-SMT is currently being used both as a teaching aid for human-computer interaction courses, as well as a prototyping tool for research in multiple universities. SMT has also attracted users from accross globe.
-
-
 ## work --------- :: New Recent Features and Future Work
 
 
 ## architecture - :: Architecture
-
+SMT takes full advantage of the Processing API. All zones are fully featured PGraphics objects
 
 ## references --- :: References
+[1] Processing website. August 2014. http://www.processing.org
+[2] TUIO website. August 2014. http://www.tuio.org
+[3] TandemTable portfolio. August 2014. http://vialab.science.uoit.ca/portfolio/tandemtable
 
-
+[1] Multitouch for Java (MT4j) website August 2011. www.mt4j.org
+[2] PyMT website August 2011. http://pymt.eu/
+[3] Kivy website August 2011. http://kivy.org/
+[4] Processing website August 2011. www.processing.org
+[5] TUIO website August 2011. www.tuio.org
+[6] Hand from gestureworks.com/support/supported-gestures/pinch-zoom/
+[7] tuioZones website August 2011. http:/jlyst.com/tz/
+[8] reacTiVision website August 2011. http://reactivision.sourceforge.net/
 
 
 
