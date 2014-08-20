@@ -21,11 +21,13 @@ In order to provide a consistent interface to the user, SMT handles all of the m
 ## usage -------- :: Use for Teaching and Research
 As a teaching aid, SMT has helped students learn human-computer interaction concepts by allowing them to directly apply their knowledge. The toolkit is accessible to students of all disciplines with only basic programming knowledge.
 SMT has also proved to be a powerful tool for HCI research. It has been effectively used in multiple master's thesis projects, enabling rapid development of research prototypes.
-Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to interactive art displays.
+Additionally, SMT has attracted users from across the globe for various other purposes, from high school projects to large interactive art displays.
 
 
 ## work --------- :: New Recent Features and Future Work
-More recent work on SMT has been mainly focused on polish and stability. SMT now supports windowed sketches
+More recent work on SMT has been mainly focused on polish and stability. For example, SMT now supports windowed sketches and any combination of input devices, touch rendering has been vastly improved, the zone rendering pipeline has been completely redone in a more stable manner, and more. Additionally, SMT's website and documentation have received a lot of work in order to better assist new programmers. Finally, an evaluation study has been conducted, but the analysis has not yet been completed.
+
+In addition to Android support, planned future development includes support for more input devices, a complete graphical overhaul, a layout engine, touch stabalization and smoothing, and more. Additionally, a full-fledged analysis must be completed in order accurately determine the benefit of this toolkit. Finally, investigation into the application of SMT's strategy to other domains in human-computer interaction than multi-touch would yield interesting results.
 
 ## architecture - :: Architecture
 SMT takes full advantage of the Processing's graphics API. All zones are fully featured PGraphics objects, with a few added features. To customize a zone's functionality, one can either write a function in a special form in the sketch, or extend the Zone class for extra power.
@@ -35,19 +37,7 @@ One unique feature of SMT, enabled by Java's reflection API, is the ability to o
 ## references --- :: References
 [1] Processing website. August 2014. http://www.processing.org
 [2] TUIO website. August 2014. http://www.tuio.org
-[3] TandemTable portfolio. August 2014. http://vialab.science.uoit.ca/portfolio/tandemtable
-
-[1] Multitouch for Java (MT4j) website August 2011. www.mt4j.org
-[2] PyMT website August 2011. http://pymt.eu/
-[3] Kivy website August 2011. http://kivy.org/
-[4] Processing website August 2011. www.processing.org
-[5] TUIO website August 2011. www.tuio.org
-[6] Hand from gestureworks.com/support/supported-gestures/pinch-zoom/
-[7] tuioZones website August 2011. http:/jlyst.com/tz/
-[8] reacTiVision website August 2011. http://reactivision.sourceforge.net/
-
-
-
-
-
-
+[3] SMART website. August 2014. http://smarttech.com
+[4] Leap Motion website. August 2014. http://leapmotion.com
+[5] TandemTable portfolio. August 2014.
+      http://vialab.science.uoit.ca/portfolio/tandemtable
